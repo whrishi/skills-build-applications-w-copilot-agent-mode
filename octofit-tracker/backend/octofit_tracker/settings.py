@@ -26,6 +26,7 @@ SECRET_KEY = "django-insecure-9wv6e%4ec437)i+i(78d$35vz96o!e=eat&fsbl2tp^o!y)j6!
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS += ["vigilant-dollop-5p54gxv9p37qp9-8000.app.github.dev", "localhost"]
 
 
 # Application definition
